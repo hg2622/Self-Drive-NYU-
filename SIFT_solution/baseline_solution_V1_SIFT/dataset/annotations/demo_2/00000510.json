@@ -1,0 +1,12 @@
+{
+    "image_id": 510,
+    "file_name": "images/demo_2/00000510.jpg",
+    "height": 480,
+    "width": 640,
+    "annotations": [
+        {
+            "keyboard_value": "r",
+            "timestamp": "2024-11-22 13:33:49.273589"
+        }
+    ]
+}
